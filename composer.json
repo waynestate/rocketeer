@@ -38,7 +38,8 @@
     "mockery/mockery": "^0.9.1",
     "phpseclib/phpseclib": "~0.3.5",
     "phpunit/phpunit": "^4.8",
-    "symfony/var-dumper": "~2.6"
+    "symfony/var-dumper": "~2.6",
+    "kherge/box": "^2.5.3"
   },
   "suggest": {
     "anahkiasen/rocketeer-campfire": "Campfire plugin to create deployments notifications",
